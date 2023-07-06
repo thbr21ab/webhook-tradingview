@@ -1,4 +1,4 @@
-# webhook-tradingvire
+# webhook-tradingview-lux
 
 Step 1:
 Register and download Ngrok: https://ngrok.com/
