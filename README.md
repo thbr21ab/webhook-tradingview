@@ -12,6 +12,7 @@ Download the config.py, __init__.py and dashboard.html
 
 
 Step 2:
+
 Create a new project in PyCharm and import my files.
 
 
